@@ -6,3 +6,7 @@
 footer{
   position: static
 }
+
+#game-container {
+    padding: 200px;
+}
