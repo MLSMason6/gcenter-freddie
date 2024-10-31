@@ -137,12 +137,12 @@ const games = [
     repoLink: "https://sblakeuna.github.io/literate-octo-disco-david/#",
     gameLink: "https://sblakeuna.github.io/literate-octo-disco-david/"
   },
-  {
+  /*{
     gameName: "Game name Template",
     gameAuthor: "Game Author Template",
     repoLink: "Repo Link Template",
     gameLink: "Game Link Template"
-  },
+  },*/
 ];
 
 const gameContainer = document.getElementById("game-container");
